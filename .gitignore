@@ -1,0 +1,5 @@
+error.txt
+*.log 
+dir/
+/dir/
+second.txt
